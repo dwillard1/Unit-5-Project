@@ -14,6 +14,7 @@ let Endings = document.querySelector(".Endings");
 let Whole = document.querySelector(".Whole");
 
 
+
 SubmitButton.onclick=function(){
   let input1 = document.querySelector(".input1").value;
   let input2 = document.querySelector(".input2").value;
